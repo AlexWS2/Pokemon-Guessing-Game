@@ -1,5 +1,3 @@
-### Sample README.md for Pokemon Guessing Game
-
 # Pokemon Guessing Game
 
 ## Description
