@@ -25,7 +25,7 @@ git clone https://github.com/AlexWS2/pokemon-guessing-game.git
 cd pokemon-guessing-game
 
 ## Usage
-# Run the game
+- Run the game
 python pokemon_guessing_game.py
 
 # Example interaction with the game
